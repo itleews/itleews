@@ -1,6 +1,7 @@
-<div align = "center">
-  
   ## 🏗 Tech Stack in Progress
+
+  <div align = "center">
+    
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -14,13 +15,15 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MFC-00599C?style=flat&logo=Visual%20Studio&logoColor=white"/>
   <br/>
+  <br/>
 
 </div>
 
-<div >
-  
   ## 📊 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews&show_icons=true&theme=default&hide_border=true&card_height=150)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&hide_border=true&card_height=150)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align = "center">
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
