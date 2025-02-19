@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
@@ -23,7 +22,7 @@
 
 <div align = "center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
