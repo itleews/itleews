@@ -1,4 +1,4 @@
-<div>
+<div align = "center">
   
   ## 🏗 Tech Stack in Progress
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
@@ -17,23 +17,10 @@
 
 </div>
 
-<div>
-
-  ## 🛠 Tools
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <br/>
-  
-</div>
-
-<div>
+<div >
   
   ## 📊 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews&show_icons=true&theme=default&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews&show_icons=true&theme=default&hide_border=true&height=150)](https://github.com/anuraghazra/github-readme-stats)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&hide_border=true&height=150)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
