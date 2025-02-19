@@ -23,6 +23,6 @@
 <div align = "center">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews&show_icons=true&theme=default&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
