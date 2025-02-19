@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <br/>
   
 </div>
