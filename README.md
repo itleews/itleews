@@ -28,25 +28,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Most Used Languages -->
-  <a href="https://github.com/itleews">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&theme=swift&hide_border=true&card_width=450">
-  </a>
+  <table>
+    <tr>
+      <!-- Streak Stats (왼쪽) -->
+      <td align="center">
+        <a href="https://github.com/itleews">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=itleews&theme=swift&hide_border=true">
+        </a>
+      </td>
+      <!-- Most Used Languages (오른쪽) -->
+      <td align="center">
+        <a href="https://github.com/itleews">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&theme=swift&hide_border=true&card_width=320">
+        </a>
+      </td>
+    </tr>
+  </table>
+
   <br/>
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/itleews">
-    <img src="https://github-readme-stats.vercel.app/api?username=itleews&show_icons=true&theme=swift&hide_border=true&count_private=true">
-  </a>
-  <br/>
-
-  <!-- Streak Stats (연속 커밋) -->
-  <a href="https://github.com/itleews">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itleews&theme=swift&hide_border=true">
-  </a>
-  <br/>
-
-  <!-- GitHub Trophies -->
+  <!-- GitHub Trophies (아래) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=itleews&theme=flat&no-frame=true&margin-w=10">
   </a>
