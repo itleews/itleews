@@ -15,14 +15,7 @@
   <img src="https://img.shields.io/badge/MFC-00599C?style=flat&logo=Visual%20Studio&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="github-readme-stats-three-beta-19.vercel.app/api?username=itleews&count_private=true&show_icons=true&theme=swift&hide_border=true&card_width=450">
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&theme=swift&hide_border=true&card_width=450">
   </a>
