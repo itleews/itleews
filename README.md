@@ -27,7 +27,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 🔥 GitHub Insights
 
 <p align="center">
   <table>
