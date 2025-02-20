@@ -51,6 +51,6 @@
 
   <!-- GitHub Trophies (아래) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itleews&theme=flat&no-frame=true&margin-w=10">
+    <img src="https://github-profile-trophy.vercel.app/?username=itleews&theme=flat&no-frame=true&margin-w=10">](https://github-profile-trophy.vercel.app/?username=itleews&theme=flat&no-frame=true&margin-w=10&no-bg=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)>
   </a>
 </p>
