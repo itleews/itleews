@@ -22,7 +22,7 @@
 
 <div align = "center">
   
-  [![itleews's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews&count_private=true&show_icons=true&theme=default&hide_border=true&card_width=450&token=PAT_ITLEEWS)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  [![itleews's GitHub stats](https://github-readme-stats.vercel.app/api?username=itleews&count_private=true&theme=swift&show_icons=true&theme=default&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&theme=swift&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
