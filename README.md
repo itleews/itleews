@@ -46,7 +46,7 @@
       <!-- Streak Stats (왼쪽) -->
       <td align="center">
         <a href="https://github.com/itleews">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=itleews&theme=swift&hide_border=true">
+          <img src="https://streak-stats.demolab.com?user=itleews&theme=swift&hide_border=true">
         </a>
       </td>
       <!-- Most Used Languages (오른쪽) -->
