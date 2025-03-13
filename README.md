@@ -48,7 +48,7 @@
       <!-- Streak Stats (왼쪽) -->
       <td align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats-rouge-tau-14.vercel.app?user=itleews&theme=default" alt="GitHub Streak" />
+          <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rouge-tau-14.vercel.app?user=itleews" alt="GitHub Streak" /></a>
         </a>
       </td>
       <!-- Most Used Languages (오른쪽) -->
