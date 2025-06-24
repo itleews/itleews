@@ -31,10 +31,8 @@
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 </p>
