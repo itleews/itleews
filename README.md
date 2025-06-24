@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/MFC-00599C?style=flat&logo=Visual%20Studio&logoColor=white">
 </p>
 
