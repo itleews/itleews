@@ -15,6 +15,8 @@ Developing Control Systems for Display Equipment 🏭
 <summary>View GitHub Stats</summary>
 <br/>
 <div align="left">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hb20201671)](https://solved.ac/profile/hb20201671/)
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itleews&layout=compact&theme=graywhite&hide_border=true&card_width=250" />
 </div>
 </details>
